@@ -1,0 +1,22 @@
+{
+  "name": "softnotweak_presskit",
+  "version": "1.0.0",
+  "description": "Presskit for Soft Not Weak LLC",
+  "main": "data.xml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soft-Not-Weak/presskit.git"
+  },
+  "author": "Réjon Taylor-Foster, Jenny Windom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soft-Not-Weak/presskit/issues"
+  },
+  "homepage": "https://github.com/Soft-Not-Weak/presskit#readme",
+  "dependencies": {
+    "presskit": "^0.13.0"
+  }
+}

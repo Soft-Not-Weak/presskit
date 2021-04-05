@@ -3,7 +3,7 @@
   <title>Soft Not Weak</title>
   <based-in>Redmond, Washington</based-in>
   <founding-date></founding-date>
-  <website>???</website>
+  <website>https://softnotweak.com</website>
   <press-contact>
   alex@softnotweak.com
   </press-contact>
@@ -11,18 +11,15 @@
   <!-- Google analytics ID: -->
   <analytics></analytics>
 
-  <phone></phone>
-  <address>
+  <!-- <phone></phone> -->
+  <!-- <address>
     <line>
-      <!-- Street -->
     </line>
     <line>
-      <!-- City -->
     </line>
     <line>
-      <!-- Country -->
     </line>
-  </address>
+  </address> -->
 
   <socials>
     <social>
@@ -79,29 +76,29 @@
     </trailer>
   </trailers>
 
-  <awards>
+  <!-- <awards>
     <award>
       <description></description>
       <info></info>
     </award>
-  </awards>
+  </awards> -->
 
-  <quotes>
+  <!-- <quotes>
     <quote>
       <description></description>
       <name></name>
       <website></website>
       <link></link>
     </quote>
-  </quotes>
+  </quotes> -->
 
-  <additionals>
+  <!-- <additionals>
     <additional>
       <title></title>
       <description></description>
       <link></link>
     </additional>
-  </additionals>
+  </additionals> -->
 
   <credits>
     <credit>

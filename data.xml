@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <company>
-  <title></title>
-  <based-in></based-in>
+  <title>Soft Not Weak</title>
+  <based-in>Redmond, Washington</based-in>
   <founding-date></founding-date>
-  <website></website>
+  <website>???</website>
   <press-contact>
-    <!-- Mail address -->
+  alex@softnotweak.com
   </press-contact>
 
   <!-- Google analytics ID: -->
@@ -26,17 +26,37 @@
 
   <socials>
     <social>
-      <name></name>
+      <name>Twitter</name>
       <link>
-        <!-- URL starting with http or https -->
+      https://www.twitter.com/softnotweak
       </link>
     </social>
+    
+     <social>
+      <name>Tik Tok</name>
+      <link>
+      https://www.tiktok.com/@softnotweak?lang=en
+      </link>
+    </social>
+    
+     <social>
+      <name>Instagram</name>
+      <link>
+      https://www.instagram.com/softnotweak
+      </link>
+    </social>    
   </socials>
 
-  <description></description>
+  <description>Soft Not Weak is a worker-owned indie game studio based in Redmond, Washington that makes games centering Black, POC, and Queer joy!</description>
 
   <!-- Choose between a single block: -->
-  <history></history>
+  <history>Soft Not Weak came together when three friends and roommates, Alex, Chris and Morgan, decided to shift their efforts to creating a worker owned game cooperative which would enact the positive change they’d longed to see in the games industry on a smaller, more manageable scale. They have combined decades of gamedev experience, Alex alone having shipped mobile and console titles through over 11 years of games industry experience.
+    
+    At PAX 2019, Alex met Souha and Maher, aka Truant Pixel, and the three indie Arabs instantly hit it off. Truant Pixel went on to become a co-developer with Soft Not Weak, bringing the expertise of several shipped indie titles to the co-op three and kicking Spirit Swap production into high gear. 
+
+    The team then started scouting and contracting incredible individuals who have all shaped what Spirit Swap has come to be. Réjon was one such contractor who’s since joined the ranks of Soft Not Weak via the concept of a long-term contractor to worker owner path we sought to implement.
+    
+</history>
 
   <!-- Or multiple blocks: -->
   <!--
@@ -50,15 +70,12 @@
 
   <trailers>
     <trailer>
-      <name></name>
+      <name>Spirit Swap: Kickstarter Launch Trailer (2020)</name>
 
       <!-- Pick one: -->
       <youtube>
-        <!-- Video ID only, not the full URL -->
+        TBD<!-- Video ID only, not the full URL -->
       </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
     </trailer>
   </trailers>
 
@@ -88,20 +105,38 @@
 
   <credits>
     <credit>
-      <person></person>
-      <role></role>
-
-      <!-- Optional: -->
-      <website></website>
+      <person>Alex</person>
+      <role>Creative Director</role>
     </credit>
+    
+    <credit>
+      <person>Chris</person>
+      <role>Animation</role>
+    </credit>
+    
+    <credit>
+      <person>Morgi</person>
+      <role>Programming</role>
+    </credit>
+    
+    <credit>
+      <person>Rejon</person>
+      <role>UI/UX</role>
+    </credit>
+    
+    <credit>
+      <person>Jenny</person>
+      <role>Producer</role>
+    </credit>
+    
   </credits>
 
   <contacts>
     <contact>
-      <name></name>
+      <name>Alex</name>
 
       <!-- Pick one: -->
-      <mail></mail>
+      <mail>alex@softnotweak.com</mail>
       <link></link>
     </contact>
   </contacts>

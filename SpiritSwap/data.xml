@@ -2,7 +2,7 @@
 <product>
   <title>Spirit Swap: Lofi Beats to Match-3 To</title>
   <release-date>2022</release-date>
-  <website>https://www.spiritswap.com</website>
+  <website>https://www.spiritswapgame.com</website>
 
   <!-- Link to request press copy: -->
   <press-copy-request></press-copy-request>
@@ -23,7 +23,7 @@
 
   <prices>
     <price>
-      <currency>USD</currency>
+      <currency></currency>
       <value>TBD</value>
     </price>
   </prices>
@@ -31,19 +31,7 @@
   <description>Cast spells, be queer, &amp; crash the biggest concert of the year! Spirit Swap is an action-puzzle game set in a lush, narrative-driven world of witchy demons.
     
     Samar is a young witch working the spirit-swapping night shift in the eastern outskirts of Demashq. A recent spike in spirits crossing over from another dimension breaks the chill atmosphere of their night shift. With her trusty familiarZ by her side, she sets off into the city to find out what’s happened. With the popular band, 5SOME, scheduled to kick off their big comeback tour in Demashq, Samar needs to work quickly before the city is overrun with stans and spirits alike....not to mention, they've got a pizza party to plan!</description>
-
-  <!-- Choose between a single block: -->
-  <history></history>
-
-  <!-- Or multiple blocks: -->
-  <!--
-  <histories>
-    <history>
-      <header></header>
-      <text></text>
-    </history>
-  </histories>
-  -->
+  
 
   <features>
      <feature>Match to the beat as you reassemble lost spirits, and enjoy a custom chillhop soundtrack by the incredible Meltycanon and eyesonbrandon. </feature>
@@ -86,104 +74,94 @@
     </bandcamp>
   </widgets>
 
-  <awards>
-    <award>
-      <description></description>
-      <info></info>
-    </award>
-  </awards>
-
-  <quotes>
-    <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
-    </quote>
-  </quotes>
-
-  <additionals>
-    <additional>
-      <title></title>
-      <description></description>
-      <link></link>
-    </additional>
-  </additionals>
 
   <credits>
     <credit>
       <person>Alex</person>
       <role>Creative Director, Soft Not Weak</role>
-
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
+   <credit>
       <person>Chris</person>
       <role>Animation, Soft Not Weak</role>
-
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
+    <credit>
       <person>Morgan</person>
       <role>Programming, Soft Not Weak</role>
-
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
+    <credit>
+      <person>Rejon</person>
+      <role>UI/UX, Soft Not Weak</role>
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+    
+    <credit>
       <person>Jenny</person>
       <role>Production, Soft Not Weak</role>
-
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
+    <credit>
       <person>Souha</person>
-      <role>Narrative Lead, Truant Pixel</role>
-
+      <role>Narrative Lead, Production, Truant Pixel</role>
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
+    <credit>
       <person>Kait</person>
-      <role>Art</role>
-
+      <role>Character Art</role>
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
-      <person>Morgan</person>
-      <role>Art</role>
-
+    <credit>
+      <person>Ganeha</person>
+      <role>Background Art</role>
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
+    <credit>
+      <person>Jenny M</person>
+      <role>Background Art</role>
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+    
+    <credit>
       <person>Sam</person>
-      <role>Art</role>
-
+      <role>Character Art</role>
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
+    <credit>
       <person>Jenna</person>
+      <role>Concept Art</role>
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+
+    <credit>
+      <person>Morgan</person>
       <role>Concept Art</role>
 
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
+    <credit>
       <person>Benny</person>
       <role>Comic Art</role>
 
@@ -191,32 +169,26 @@
       <website></website>
     </credit>
     
-        <credit>
+    <credit>
       <person>Sharii</person>
       <role>Narrative</role>
-
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
+    <credit>
       <person>meltycanon</person>
       <role>Music</role>
-
       <!-- Optional: -->
       <website></website>
     </credit>
     
-        <credit>
+    <credit>
       <person>eyelovebrandon</person>
       <role>Music</role>
-
       <!-- Optional: -->
       <website></website>
     </credit>
-    
-    
-    
   </credits>
 
   <contacts>

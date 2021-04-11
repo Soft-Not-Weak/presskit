@@ -10,12 +10,12 @@
   <platforms>
     <platform>
       <name>Steam</name>
-      <link>TBD</link>
+      <link>https://store.steampowered.com/app/1592170/Spirit_Swap_Lofi_Beats_to_Match3_To</link>
     </platform>
     
     <platform>
       <name>Itch.io</name>
-      <link>TBD</link>
+      <link>https://softnotweak.itch.io/spirit-swap-lofi-beats-to-match-3-to</link>
     </platform>
     
     
@@ -53,7 +53,7 @@
 
       <!-- Pick one: -->
       <youtube>
-        TBD<!-- Video ID only, not the full URL -->
+        gRVEE_m9qec<!-- Video ID only, not the full URL -->
       </youtube>
     </trailer>
   </trailers>
@@ -61,8 +61,7 @@
   <!-- You can set your widgets here (optional): -->
   <widgets>
     <steam>
-      TBD<!-- Steam ID -->
-      <!-- e.g. 424242 -->
+      1592170
     </steam>
     <itch>
       985727

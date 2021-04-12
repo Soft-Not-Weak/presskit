@@ -53,7 +53,7 @@
 
       <!-- Pick one: -->
       <youtube>
-        gRVEE_m9qec<!-- Video ID only, not the full URL -->
+        Fe4p3xl4RAk<!-- Video ID only, not the full URL -->
       </youtube>
     </trailer>
   </trailers>
@@ -81,14 +81,14 @@
       <person>Chris</person>
       <role>Animation, Soft Not Weak</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://twitter.com/zionviller</website>
     </credit>
     
     <credit>
-      <person>Morgan</person>
+      <person>Morgan Lavelle</person>
       <role>Programming, Soft Not Weak</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://twitter.com/JustMorganTime</website>
     </credit>
     
     <credit>
@@ -99,82 +99,94 @@
     </credit>
     
     <credit>
-      <person>Jenny</person>
+      <person>Jenny Windom</person>
       <role>Production, Soft Not Weak</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://twitter.com/kimchica25</website>
     </credit>
     
     <credit>
-      <person>Souha</person>
-      <role>Narrative Lead, Production, Truant Pixel</role>
+      <person>Souha Al-Samkari</person>
+      <role>Narrative Lead & Production, Spirit Swap; Vice-President, Truant Pixel</role>
       <!-- Optional: -->
-      <website></website>
+      <website>truantpixel.com</website>
+    </credit>
+   
+    <credit>
+      <person>Maher Al-Samkari</person>
+      <role>President, Truant Pixel</role>
+      <!-- Optional: -->
+      <website>truantpixel.com</website>
     </credit>
     
     <credit>
-      <person>Kait</person>
+      <person>Dice</person>
       <role>Character Art</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://thedicegoddess.com/</website>
     </credit>
     
     <credit>
-      <person>Jenny M</person>
-      <role>Background Art</role>
-      <!-- Optional: -->
-      <website></website>
-    </credit>
-    
-    <credit>
-      <person>Sam</person>
+      <person>Sam Tesi</person>
       <role>Character Art</role>
       <!-- Optional: -->
+      <website>https://www.artstation.com/sjtesi</website>
+    </credit>
+    
+    <credit>
+      <person>Khei</person>
+      <role>Animation</role>
+      <!-- Optional: -->
+      <website>https://twitter.com/kheillustration</website>
+    </credit>
+    
+    <credit>
+      <person>Jenny Mori</person>
+      <role>Background Art + Animation</role>
+      <!-- Optional: -->
       <website></website>
     </credit>
     
     <credit>
-      <person>Jenna</person>
+      <person>Jenna Yow</person>
       <role>Concept Art</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://jencodon.com/</website>
     </credit>
 
     <credit>
-      <person>Morgan</person>
+      <person>Morgan Madeline</person>
       <role>Concept Art</role>
-
       <!-- Optional: -->
-      <website></website>
+      <website>https://mmmadeline.artstation.com/</website>
     </credit>
     
     <credit>
-      <person>Benny</person>
+      <person>Beniam Hollman</person>
       <role>Comic Art</role>
-
       <!-- Optional: -->
-      <website></website>
+      <website>https://beniamhollman.portfoliobox.net/</website>
     </credit>
     
     <credit>
       <person>Sharii</person>
       <role>Narrative</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://twitter.com/hypaalicious</website>
     </credit>
     
     <credit>
       <person>meltycanon</person>
       <role>Music</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://meltycanon.bandcamp.com/</website>
     </credit>
     
     <credit>
       <person>eyelovebrandon</person>
       <role>Music</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://eyelovebrandon.com/</website>
     </credit>
   </credits>
 

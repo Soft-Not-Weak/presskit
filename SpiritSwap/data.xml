@@ -33,7 +33,7 @@
     Samar is a young witch working the spirit-swapping night shift in the eastern outskirts of Demashq. A recent spike in spirits crossing over from another dimension breaks the chill atmosphere of their night shift. With her trusty familiarZ by her side, she sets off into the city to find out what’s happened. With the popular band, 5SOME, scheduled to kick off their big comeback tour in Demashq, Samar needs to work quickly before the city is overrun with stans and spirits alike....not to mention, they've got a pizza party to plan!</description>
   
  <History>
-Soft Not Weak came together when three friends and roommates, Alex, Chris and Morgan, decided to shift their efforts to creating a worker owned game cooperative which would enact the positive change they’d longed to see in the games industry on a smaller, more manageable scale. They have combined decades of gamedev experience, Alex alone having shipped mobile and console titles through over 11 years of games industry experience. At PAX 2019, Alex met Souha and Maher, aka Truant Pixel, and the three indie Arabs instantly hit it off. Truant Pixel went on to become a co-developer with Soft Not Weak, bringing the expertise of several shipped indie titles to the co-op three and kicking Spirit Swap production into high gear. The team then started scouting and contracting incredible individuals who have all shaped what Spirit Swap has come to be. Réjon was one such contractor who’s since joined the ranks of Soft Not Weak via the concept of a long-term contractor to worker owner path we sought to implement. Shortly after, Jenny joined the team as well!
+Soft Not Weak came together when three friends and roommates, Alex, Chris and Morgan, decided to shift their efforts to creating a worker owned game cooperative which would enact the positive change they’d longed to see in the games industry on a smaller, more manageable scale. They have combined decades of gamedev experience, Alex alone having shipped mobile and console titles through over 11 years of games industry experience. The team then started scouting and contracting incredible individuals who have all shaped what Spirit Swap has come to be. Réjon was one such contractor who’s since joined the ranks of Soft Not Weak via the concept of a long-term contractor to worker owner path we sought to implement. Shortly after, Jenny joined the team as well!
   </History>
   <features>
      <feature>Match to the beat as you reassemble lost spirits, and enjoy a custom lofi hip hop soundtrack by the incredible Meltycanon and eyesonbrandon. </feature>
@@ -106,21 +106,7 @@ Soft Not Weak came together when three friends and roommates, Alex, Chris and Mo
       <!-- Optional: -->
       <website>https://twitter.com/kimchica25</website>
     </credit>
-    
-    <credit>
-      <person>Souha</person>
-      <role>Narrative Lead &amp; Production, Spirit Swap; Vice-President, Truant Pixel</role>
-      <!-- Optional: -->
-      <website>truantpixel.com</website>
-    </credit>
-   
-    <credit>
-      <person>M</person>
-      <role>President, Truant Pixel</role>
-      <!-- Optional: -->
-      <website>truantpixel.com</website>
-    </credit>
-    
+
     <credit>
       <person>Dice</person>
       <role>Character Art</role>
@@ -168,13 +154,6 @@ Soft Not Weak came together when three friends and roommates, Alex, Chris and Mo
       <role>Comic Art</role>
       <!-- Optional: -->
       <website>https://beniamhollman.portfoliobox.net/</website>
-    </credit>
-    
-    <credit>
-      <person>Sharii</person>
-      <role>Narrative</role>
-      <!-- Optional: -->
-      <website>https://twitter.com/hypaalicious</website>
     </credit>
     
     <credit>

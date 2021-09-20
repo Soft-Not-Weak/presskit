@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>Spirit Swap: Lofi Beats to Match-3 To</title>
-  <release-date>2022</release-date>
+  <release-dates>
+    <release-date>Q3 2022</release-date>
+  </release-dates>
   <website>https://www.spiritswapgame.com</website>
 
   <!-- Link to request press copy: -->
@@ -28,19 +30,22 @@
     </price>
   </prices>
 
-  <description>Cast spells, be queer, &amp; crash the biggest concert of the year! Spirit Swap is an action-puzzle game set in a lush, narrative-driven world of witchy demons.
-    
-    Samar is a young witch working the spirit-swapping night shift in the eastern outskirts of Demashq. A recent spike in spirits crossing over from another dimension breaks the chill atmosphere of their night shift. With her trusty familiarZ by her side, she sets off into the city to find out what’s happened. With the popular band, 5SOME, scheduled to kick off their big comeback tour in Demashq, Samar needs to work quickly before the city is overrun with stans and spirits alike....not to mention, they've got a pizza party to plan!</description>
+  <description>
+  Cast spells, be queer, &amp; crash the biggest concert of the year! Spirit Swap is an action-puzzle game set in a lush, narrative-driven world of witchy demons. Samar is a young witch working the spirit-swapping night shift in the eastern outskirts of Demashq. A recent spike in spirits crossing over from another dimension breaks the chill atmosphere of their night shift, so with her trusty familiarZ by her side, she sets off into the city to find out what’s happened. With a popular band scheduled to kick off their big comeback tour in Demashq, Samar needs to work quickly before the city is overrun with stans and spirits alike....not to mention, they've got a pizza party to plan!
+  </description>
   
  <History>
-Soft Not Weak came together when three friends and roommates, Alex, Chris and Morgan, decided to shift their efforts to creating a worker owned game cooperative which would enact the positive change they’d longed to see in the games industry on a smaller, more manageable scale. They have combined decades of gamedev experience, Alex alone having shipped mobile and console titles through over 11 years of games industry experience. The team then started scouting and contracting incredible individuals who have all shaped what Spirit Swap has come to be. Réjon was one such contractor who’s since joined the ranks of Soft Not Weak via the concept of a long-term contractor to worker owner path we sought to implement. Shortly after, Jenny joined the team as well!
+Soft Not Weak came together when three friends and roommates, Alex, Chris and Morgan, decided to shift their efforts to creating a worker-owned game cooperative which would enact the positive change they’d longed to see in the games industry on a smaller, more manageable scale. The team then started scouting and contracting incredible individuals who have all shaped what Spirit Swap has come to be. Réjon was one such contractor who’s since joined the ranks of Soft Not Weak via the concept of a long-term contractor to worker owner path we sought to implement. Shortly after, Jenny joined the team as well via that same path.
+
+Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to Match-3 To in 2020, and successfully completed their first Kickstarter in May 2021, doubling the funding request of the game!
+
   </History>
   <features>
-     <feature>Match to the beat as you reassemble lost spirits, and enjoy a custom lofi hip hop soundtrack by the incredible Meltycanon and eyesonbrandon. </feature>
+     <feature>Swap to the beat as you reassemble lost spirits, and enjoy a custom lofi soundtrack by the incredible Meltycanon. </feature>
     
      <feature>Cast powerful spells. Arrange spirits into special patterns to unlock potent powers! </feature>
     
-     <feature>Bond with a cast of witches and demons. Plan a pizza party together, crash a concert, maybe even smooch!</feature>
+     <feature>Bond with a cast of witches and demons. Plan a pizza party, crash a concert, maybe even smooch!</feature>
     
      <feature>Decorate your bedroom. Earn trinkets and keepsakes as you play, then place them in Samar’s room to affect gameplay.</feature>
     
@@ -55,10 +60,51 @@ Soft Not Weak came together when three friends and roommates, Alex, Chris and Mo
 
       <!-- Pick one: -->
       <youtube>
-        Fe4p3xl4RAk<!-- Video ID only, not the full URL -->
+        WQSEx8dhnbw<!-- Video ID only, not the full URL -->
       </youtube>
     </trailer>
   </trailers>
+
+    <awards>
+    <award>
+      <description>Official Selection</description>
+      <info>Game Devs of Color 2021 </info>
+    </award>
+    <award>
+      <description>Official Selection</description>
+      <info>IndieLand 2021</info>
+    </award>
+    <award>
+      <description>Official Selection</description>
+      <info>PAX Together, PAX West 2021 </info>
+    </award>
+    <award>
+      <description>Official Selection</description>
+      <info>Wholesome Direct 2021</info>
+    </award>
+    <award>
+      <description>Official Selection</description>
+      <info>#FutureOfPlay Direct 2021</info>
+    </award>
+  </awards>
+
+  <quotes>
+  <quote>
+      <description>“Spirit Swap looks to be giving the match-three genre a much-needed fresh lick of paint.”</description>
+      <website>PC Gamer</website>
+      <link>https://www.pcgamer.com/i-wish-the-wholesome-direct-had-given-indies-more-time-to-shine/</link>
+    </quote>
+    <quote>
+      <description>“Spirit Swap juxtaposes the relaxation we associate with lo-fi music with a demanding competitive streak.”</description>
+      <website>Fanbyte</website>
+      <link>https://www.fanbyte.com/news/spirit-swap-is-a-gorgeous-mesh-of-queerness-colors-and-chill-lo-fi-beats/</link>
+    </quote>
+    <quote>
+      <description>“...the game has managed to take my love for puzzle games and turn them into something magically creative. And gay. Very, very gay.”</description>
+      <website>The Mary Sue</website>
+      <link>https://www.themarysue.com/spirit-swap-kickstarter/</link>
+    </quote>
+  </quotes>
 
   <!-- You can set your widgets here (optional): -->
   <widgets>
@@ -76,33 +122,33 @@ Soft Not Weak came together when three friends and roommates, Alex, Chris and Mo
       <person>Alex</person>
       <role>Creative Director, Soft Not Weak</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://twitter.com/dirtbagboyfren</website>
     </credit>
     
    <credit>
       <person>Chris</person>
-      <role>Animation, Soft Not Weak</role>
+      <role>Lead Animation, Soft Not Weak</role>
       <!-- Optional: -->
       <website>https://twitter.com/zionviller</website>
     </credit>
     
     <credit>
       <person>Morgan L</person>
-      <role>Programming, Soft Not Weak</role>
+      <role>Lead Programming, Soft Not Weak</role>
       <!-- Optional: -->
       <website>https://twitter.com/JustMorganTime</website>
     </credit>
     
     <credit>
       <person>Rejon</person>
-      <role>UI/UX, Soft Not Weak</role>
+      <role>Lead UI/UX &amp; Sound Design, Soft Not Weak</role>
       <!-- Optional: -->
       <website>https://rejontaylor.com</website>
     </credit>
     
     <credit>
       <person>Jenny W</person>
-      <role>Production, Soft Not Weak</role>
+      <role>Lead Production &amp; Community Development, Soft Not Weak</role>
       <!-- Optional: -->
       <website>https://twitter.com/kimchica25</website>
     </credit>
@@ -127,6 +173,13 @@ Soft Not Weak came together when three friends and roommates, Alex, Chris and Mo
       <!-- Optional: -->
       <website>https://twitter.com/kheillustration</website>
     </credit>
+
+    <credit>
+      <person>Khei</person>
+      <role>Animation</role>
+      <!-- Optional: -->
+      <website>https://twitter.com/kheillustration</website>
+    </credit>
     
     <credit>
       <person>Jenny M</person>
@@ -136,17 +189,31 @@ Soft Not Weak came together when three friends and roommates, Alex, Chris and Mo
     </credit>
     
     <credit>
-      <person>Jenna</person>
-      <role>Concept Art</role>
+      <person>Jenna Yow</person>
+      <role>Lead Narrative</role>
       <!-- Optional: -->
       <website>https://jencodon.com/</website>
     </credit>
 
     <credit>
-      <person>Morgan M</person>
-      <role>Concept Art</role>
+      <person>Adanna Nedd</person>
+      <role>Writer</role>
       <!-- Optional: -->
-      <website>https://mmmadeline.artstation.com/</website>
+      <website>https://twitter.com/AFNarratives8</website>
+    </credit>
+
+    <credit>
+      <person>Dani Dee</person>
+      <role>Writer</role>
+      <!-- Optional: -->
+      <website>https://twitter.com/epistellar</website>
+    </credit>
+
+    <credit>
+      <person>Emmett Nahil</person>
+      <role>Editor</role>
+      <!-- Optional: -->
+      <website>https://twitter.com/_emnays</website>
     </credit>
     
     <credit>
@@ -166,8 +233,7 @@ Soft Not Weak came together when three friends and roommates, Alex, Chris and Mo
 
   <contacts>
     <contact>
-      <name>Alex</name>
-      <mail>alex@softnotweak.com</mail>
+      <mail>contact@softnotweak.com</mail>
     </contact>
   </contacts>
 </product>

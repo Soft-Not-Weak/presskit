@@ -34,7 +34,7 @@
     </social>    
   </socials>
 
-  <description>Soft Not Weak is a worker-owned indie game studio based in Redmond, Washington that makes games centering Black, POC, and Queer joy!</description>
+  <description>Soft Not Weak is a worker-owned game cooperative based in Redmond, WA, founded with the goal of being the change we want to see in the industry, and putting more joy into the world.</description>
 
   <!-- Choose between a single block: -->
   <history>Soft Not Weak came together when three friends and roommates, Alex, Chris and Morgan, decided to shift their efforts to creating a worker owned game cooperative which would enact the positive change they’d longed to see in the games industry on a smaller, more manageable scale. They have combined decades of gamedev experience, Alex alone having shipped mobile and console titles through over 11 years of games industry experience.
@@ -61,7 +61,7 @@
 
       <!-- Pick one: -->
       <youtube>
-        Fe4p3xl4RAk
+        WQSEx8dhnbw
       </youtube>
     </trailer>
   </trailers>
@@ -120,11 +120,9 @@
 
   <contacts>
     <contact>
-      <name>Alex</name>
 
       <!-- Pick one: -->
-      <mail>alex@softnotweak.com</mail>
-      <link></link>
+      <mail>contact@softnotweak.com</mail>
     </contact>
   </contacts>
 </company>

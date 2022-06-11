@@ -31,13 +31,15 @@
   </prices>
 
   <description>
-  Cast spells, be queer, &amp; crash the biggest concert of the year! Spirit Swap is an action-puzzle game set in a lush, narrative-driven world of witchy demons. Samar is a young witch working the spirit-swapping night shift in the eastern outskirts of Demashq. A recent spike in spirits crossing over from another dimension breaks the chill atmosphere of their night shift, so with her trusty familiarZ by her side, she sets off into the city to find out what’s happened. With a popular band scheduled to kick off their big comeback tour in Demashq, Samar needs to work quickly before the city is overrun with stans and spirits alike....not to mention, they've got a pizza party to plan!
+  Cast spells, be queer, &amp; crash the biggest concert of the year! Spirit Swap is an action-puzzle game set in a lush, narrative-driven world of witchy demons. Samar is a young witch working the spirit-swapping night shift in the eastern outskirts of Demashq. A recent spike in spirits crossing over from another dimension breaks the chill atmosphere of their night shift, so with her trusty familiarZ by her side, she sets off into the city to find out what’s happened. With a popular band scheduled to kick off their big comeback tour in Demashq, Samar needs to work quickly before the city is overrun with stans and spirits alike!
   </description>
   
  <History>
-Soft Not Weak came together when three friends and roommates, Alex, Chris and Morgan, decided to shift their efforts to creating a worker-owned game cooperative which would enact the positive change they’d longed to see in the games industry on a smaller, more manageable scale. The team then started scouting and contracting incredible individuals who have all shaped what Spirit Swap has come to be. Réjon was one such contractor who’s since joined the ranks of Soft Not Weak via the concept of a long-term contractor to worker owner path we sought to implement. Shortly after, Jenny joined the team as well via that same path.
+Soft Not Weak came together when three friends and roommates, Alex, Chris and Morgan, decided to shift their efforts to creating a worker-owned game cooperative which would enact the positive change they’d longed to see in the games industry on a smaller, more manageable scale. The team then started scouting and contracting incredible individuals who have all shaped what Spirit Swap has come to be. Réjon was one such contractor who’s since joined the ranks of Soft Not Weak via the concept of a long-term contractor to worker owner path we sought to implement. Shortly after, Jenny joined the team as well via that same path. 
 
 Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to Match-3 To in 2020, and successfully completed their first Kickstarter in May 2021, doubling the funding request of the game!
+
+Currently, the game is in active development with an anticipated launch in 2023. 
 
   </History>
   <features>
@@ -66,6 +68,18 @@ Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to
   </trailers>
 
     <awards>
+    <award>
+      <description>Official Selection</description>
+      <info>Wholesome Direct 2022</info>
+    </award>
+    <award>
+      <description>Official Selection</description>
+      <info>Future of Play 2022</info>
+    </award>
+    <award>
+      <description>Official Selection</description>
+      <info> The MIX: Black Voices in Gaming 2022</info>
+    </award>
     <award>
       <description>Official Selection</description>
       <info>Game Devs of Color 2021 </info>
@@ -136,16 +150,23 @@ Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to
     
     <credit>
       <person>Rejon</person>
-      <role>Lead UI/UX &amp; Sound Design, Soft Not Weak</role>
+      <role>Lead UI/UX &amp; Audio, Soft Not Weak</role>
       <!-- Optional: -->
       <website>https://rejontaylor.com</website>
     </credit>
     
     <credit>
       <person>Jenny W</person>
-      <role>Lead Production &amp; Community Development, Soft Not Weak</role>
+      <role>Lead Production &amp; Marketing, Soft Not Weak</role>
       <!-- Optional: -->
       <website>https://twitter.com/kimchica25</website>
+    </credit>
+
+    <credit>
+      <person>Chris</person>
+      <role>Animation</role>
+      <!-- Optional: -->
+      <website>https://twitter.com/zionviller</website>
     </credit>
 
     <credit>
@@ -167,13 +188,6 @@ Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to
       <role>Animation</role>
       <!-- Optional: -->
       <website>https://twitter.com/kheillustration</website>
-    </credit>
-
-    <credit>
-      <person>Chris</person>
-      <role>Animation</role>
-      <!-- Optional: -->
-      <website>https://twitter.com/zionviller</website>
     </credit>
 
     <credit>

@@ -56,9 +56,7 @@ Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to
       <name>Wholesome Direct 2023</name>
 
       <youtube>
-              WQSEx8dhnbw<!-- Video ID only, not the full URL -->
-
-        <!-- Video ID only, not the full URL -->
+        WC2WoJzm4rI<!-- Video ID only, not the full URL -->
       </youtube>
       
     </trailer>
@@ -66,7 +64,7 @@ Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to
     <trailer>
     <name>Xbox Showcase 2023</name>
     <youtube>
-        WQSEx8dhnbw<!-- Video ID only, not the full URL -->
+        1mZp2AAcZrc<!-- Video ID only, not the full URL -->
       </youtube>
     </trailer>
   </trailers>
@@ -110,16 +108,19 @@ Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to
   <quote>
       <description>“Spirit Swap looks to be giving the match-three genre a much-needed fresh lick of paint.”</description>
       <website>PC Gamer</website>
+      <name>Mollie Taylor</name>
       <link>https://www.pcgamer.com/i-wish-the-wholesome-direct-had-given-indies-more-time-to-shine/</link>
     </quote>
     <quote>
       <description>“Spirit Swap juxtaposes the relaxation we associate with lo-fi music with a demanding competitive streak.”</description>
       <website>Fanbyte</website>
+      <name>Natalie Flores</name>
       <link>https://www.fanbyte.com/news/spirit-swap-is-a-gorgeous-mesh-of-queerness-colors-and-chill-lo-fi-beats/</link>
     </quote>
     <quote>
       <description>“...the game has managed to take my love for puzzle games and turn them into something magically creative. And gay. Very, very gay.”</description>
       <website>The Mary Sue</website>
+      <name>Briana Lawrence</name>
       <link>https://www.themarysue.com/spirit-swap-kickstarter/</link>
     </quote>
   </quotes>
@@ -153,7 +154,7 @@ Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to
     </credit>
     
     <credit>
-      <person>Rejon</person>
+      <person>Rejon Taylor-Foster</person>
       <role>Lead UI/UX &amp; Audio, Soft Not Weak</role>
       <!-- Optional: -->
       <website>https://rejontaylor.com</website>

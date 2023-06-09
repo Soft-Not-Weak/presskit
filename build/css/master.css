@@ -16,6 +16,7 @@ html {
 
 body {
   position: relative;
+  background: linear-gradient(-180deg,#2d1940 ,#07011e 64%);
 
   min-height: 100vh;
   margin: 0;
@@ -26,9 +27,9 @@ body {
 \* ---------------------------------------------------------- */
 
 html {
-  color: #444444;
+  color: #fff8ea;
 
-  font: 62.5%/1.6 "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font: 90.5%/1.6 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 body {
@@ -37,8 +38,8 @@ body {
 
 h1,
 h2 {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-weight: normal;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
 }
 
 ::-moz-selection {
@@ -70,6 +71,7 @@ h2 {
 h3 {
   font-size: inherit;
   font-weight: bold;
+  font-size: 1.75em;
 }
 
 img {
@@ -78,6 +80,7 @@ img {
 
 p {
   margin: 15px 0;
+  white-space: pre-line;
 }
 
 p:last-child {
@@ -89,7 +92,7 @@ p:last-child {
 ul,
 ol {
   margin: 15px 0;
-  padding-left: 30px;
+  padding-left: 15px;
 }
 
 ul:last-child,
@@ -98,7 +101,7 @@ ol:last-child {
 }
 
 ul {
-  list-style-type: square;
+  list-style-type: disc;
 }
 
 dl {
@@ -123,6 +126,7 @@ dd + dt {
 
 body {
   padding: 20px 0;
+  background-color: linear-gradient(-180deg,#1f072f ,#07011e 64%);
 }
 
 .page {
@@ -172,13 +176,13 @@ body {
 
 a,
 a:visited {
-  color: #0077dd;
+  color: #FF55A5;
 
   text-decoration: none;
 }
 
 a:hover {
-  color: #005599;
+  color: #29aa7f;
 
   text-decoration: underline;
 }
@@ -195,6 +199,31 @@ a:hover {
 /* ---------------------------------------------------------- *\
  * Components - Page Header.
 \* ---------------------------------------------------------- */
+.page-header {
+  position: relative;
+}
+
+.page-header::before {
+  position: absolute;
+content: '';
+top: 0;
+left: 0;
+right: 0;
+z-index: -1;
+height: 100%;
+width: 100%;
+margin: 0 auto;
+-webkit-filter: blur(40px);
+filter: blur(40px);
+-webkit-transform: scaleX(1) scaleY(0.864);
+-ms-transform: scaleX(1) scaleY(0.864);
+transform: scaleX(1) scaleY(0.864);
+background: #D882BF;
+  background-size: auto;
+background-size: 400%;
+-webkit-animation: scroll-jsx-4291949292 4s ease infinite;
+animation: scroll-jsx-4291949292 4s ease infinite;
+}
 
 .page-header img {
   display: block;
@@ -213,6 +242,7 @@ a:hover {
 
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   line-height: 1;
+  font-size: 2em;
 }
 
 .nav__title a,
@@ -308,17 +338,41 @@ a:hover {
 }
 
 .block__notice {
-  margin-bottom: 15px;
-  padding: 10px;
-
-  color: #027194;
-  background: #ebf7fd;
-  border: 1px solid rgba(45,112,145,0.3);
-  border-radius: 4px;
+  margin-bottom: 30px;
+  margin-top:10px;
 }
 
 .block__notice a {
-  color: inherit;
+  position: relative;
+  margin-bottom: 30px;
+  padding: 10px;
+  color: white;
+  background: rgba(26, 14, 51, 0.72);
+  border: 1px solid rgba(45,112,145,0.3);
+  border-radius: 4px;
+  font-size: larger;
+}
+
+.block__notice a::before {
+  position: absolute;
+content: '';
+top: 0;
+left: 0;
+right: 0;
+z-index: -1;
+height: 100%;
+width: 100%;
+margin: 0 auto;
+-webkit-filter: blur(20px);
+filter: blur(20px);
+-webkit-transform: scaleX(1) scaleY(0.864);
+-ms-transform: scaleX(1) scaleY(0.864);
+transform: scaleX(1) scaleY(0.864);
+background: #D882BF;
+  background-size: auto;
+background-size: 400%;
+-webkit-animation: scroll-jsx-4291949292 4s ease infinite;
+animation: scroll-jsx-4291949292 4s ease infinite;
 }
 
 /* ---------------------------------------------------------- *\

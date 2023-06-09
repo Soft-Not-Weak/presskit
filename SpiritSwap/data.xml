@@ -30,47 +30,43 @@
     </price>
   </prices>
 
-  <description>
-  Cast spells, be queer, &amp; crash the biggest concert of the year! Spirit Swap is an action-puzzle game set in a lush, narrative-driven world of witchy demons. Samar is a young witch working the spirit-swapping night shift in the eastern outskirts of Demashq. A recent spike in spirits crossing over from another dimension breaks the chill atmosphere of their night shift, so with her trusty familiarZ by her side, she sets off into the city to find out what’s happened. With a popular band scheduled to kick off their big comeback tour in Demashq, Samar needs to work quickly before the city is overrun with stans and spirits alike!
-  </description>
+  <description>Cast spells, be queer, &amp; crash the biggest concert of the year! Spirit Swap is an action-puzzle game set in a lush, narrative-driven world of witchy demons.
   
- <History>
-Soft Not Weak came together when three friends and roommates, Alex, Chris and Morgan, decided to shift their efforts to creating a worker-owned game cooperative which would enact the positive change they’d longed to see in the games industry on a smaller, more manageable scale. The team then started scouting and contracting incredible individuals who have all shaped what Spirit Swap has come to be. Réjon was one such contractor who’s since joined the ranks of Soft Not Weak via the concept of a long-term contractor to worker owner path we sought to implement. Shortly after, Jenny joined the team as well via that same path. 
+  Samar is a young witch working the spirit-swapping night shift in the eastern outskirts of Demashq. A recent spike in spirits crossing over from another dimension breaks the chill atmosphere of their night shift, so with her trusty familiarZ by her side, she sets off into the city to find out what’s happened. With a popular band scheduled to kick off their big comeback tour in Demashq, Samar needs to work quickly before the city is overrun with stans and spirits alike!</description>  
+ <History>Soft Not Weak came together when three friends and roommates, Alex, Chris and Morgan, decided to shift their efforts to creating a worker-owned game cooperative which would enact the positive change they’d longed to see in the games industry on a smaller, more manageable scale.
 
-Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to Match-3 To in 2020, and successfully completed their first Kickstarter in May 2021, doubling the funding request of the game!
+The team then started scouting and contracting incredible individuals who have all shaped what Spirit Swap has come to be. Réjon was one such contractor who’s since joined the ranks of Soft Not Weak via the concept of a long-term contractor to worker owner path we sought to implement. Shortly after, Jenny joined the team as well via that same path.
 
-Currently, the game is in active development with an anticipated launch in 2023. 
 
-  </History>
+Soft Not Weak announced their first commercial title, Spirit Swap: Lofi Beats to Match-3 To in 2020, and successfully completed their first Kickstarter in May 2021, doubling the funding request of the game! Currently, the game is in active development with an anticipated launch in 2023.</History>
   <features>
-     <feature>Swap to the beat as you reassemble lost spirits, and enjoy a custom lofi soundtrack by the incredible Meltycanon. </feature>
+     <feature>Swap to a custom lofi soundtrack by the incredible Meltycanon as you reassemble lost spirits.</feature>
     
-     <feature>Cast powerful spells. Arrange spirits into special patterns to unlock potent powers! </feature>
+     <feature>Cast powerful spells by arranging spirits into special patterns to unlock potent powers.</feature>
     
-     <feature>Bond with a cast of witches and demons. Plan a pizza party, crash a concert, maybe even smooch!</feature>
+     <feature>Bond with a cast of witches and demons… and maybe even smooch!</feature>
     
-     <feature>Decorate your bedroom. Earn trinkets and keepsakes as you play, then place them in Samar’s room to affect gameplay.</feature>
+     <feature>Decorate your bedroom. Earn trinkets and keepsakes as you play, then place them in Samar’s room to impact gameplay.</feature>
     
-     <feature>Compete in local VS mode! Everything is chill, until it gets permanently unchill....</feature>
-    
-     <feature>Enjoy over 5 unique game modes, including Time Attack, Score Attack, and Survival.</feature>
+     <feature>Enjoy unique game modes, including Endless and local Versus!</feature>
   </features>
 
   <trailers>
     <trailer>
-      <name>Spirit Swap: Kickstarter Launch (2021)</name>
+      <name>Wholesome Direct 2023</name>
 
-      <!-- Pick one: -->
       <youtube>
-        WQSEx8dhnbw<!-- Video ID only, not the full URL -->
+              WQSEx8dhnbw<!-- Video ID only, not the full URL -->
+
+        <!-- Video ID only, not the full URL -->
       </youtube>
       
     </trailer>
 
     <trailer>
-    <name>Spirit Swap | Wholesome Direct Teaser (June 2022)</name>
+    <name>Xbox Showcase 2023</name>
     <youtube>
-        rbAjAMT8GYw<!-- Video ID only, not the full URL -->
+        WQSEx8dhnbw<!-- Video ID only, not the full URL -->
       </youtube>
     </trailer>
   </trailers>
